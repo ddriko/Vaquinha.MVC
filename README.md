@@ -3,7 +3,7 @@
 Projeto Base para Testes - .Net Core , apresentado durante o Bootcamp Decola Dev Avanade 2021, fornecido pela 
 [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6) 
 na aula "Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding".
-Este projeto tem como finalidade a intrdução aos Testes de Unidade, Testes de Integração e Testes Automatizados 
+Este projeto tem como finalidade a introdução aos Testes de Unidade, Testes de Integração e Testes Automatizados 
 
 
 
